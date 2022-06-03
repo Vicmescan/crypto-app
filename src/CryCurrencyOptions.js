@@ -9,7 +9,7 @@ const CryCurrencyOptions = () => {
             <option value="MKR">Maker</option>
             <option value="YFI">Yearn.finance</option>
             <option value="GNO">Gnosis</option>
-            <option value="LINK">ChainLinl</option>
+            <option value="LINK">ChainLink</option>
             <option value="BAT">Basic Attention Token</option>
             <option value="HEX">HEX</option>
             <option value="PAX">Pax Dollar</option>
