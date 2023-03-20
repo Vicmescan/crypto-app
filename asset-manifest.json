@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-app/static/css/main.c8620552.css",
+    "main.js": "/crypto-app/static/js/main.f482c711.js",
+    "index.html": "/crypto-app/index.html",
+    "main.c8620552.css.map": "/crypto-app/static/css/main.c8620552.css.map",
+    "main.f482c711.js.map": "/crypto-app/static/js/main.f482c711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8620552.css",
+    "static/js/main.f482c711.js"
+  ]
+}
